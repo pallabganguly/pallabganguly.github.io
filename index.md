@@ -1,4 +1,6 @@
-### Who I am
+### Home
+
+### Who am I
 
 I am a Software Developer working at Oracle in Hyderabad, India. I work on the Oracle Fusion suite of apps, with Java, and Oracle databases. I have previously worked for Tata Consultancy Services, where I was a developer in an order management system for a major British retailer.
 I am a Computer Science & Engineering graduate from Kalyani Government Engineering College, West Bengal.
