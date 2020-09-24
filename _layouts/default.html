@@ -17,10 +17,15 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% endif %}
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      {% if site.description or site.github.project_tagline %}
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+      {% endif %}
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/">About</a></li>
+        <li><a href="/">Blog</a></li>
+      </ul>
       </header>
       <section>
 
