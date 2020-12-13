@@ -10,11 +10,11 @@ I am a Computer Science & Engineering graduate from Kalyani Government Engineeri
 
 ### What I am interested in
 
-While I have experience of working as a developer in software/IT companies, I am interested in general management and consulting. The clockworks of businesses excite me, I like to read interesing cases of how companies run themselves, and I like spending time thinking how and what they could do better with the (very) limited knowledge that I possess.
+While I have experience of working as a developer in software/IT companies, I am interested in management and consulting. The clockworks of businesses excite me, I like to read interesing cases of how companies run, and I like spending time thinking how and what they could do better with the limited knowledge that I possess.
 
 ### What I'm doing when I'm not working
 
-Reading articles from prominent journals/magazines like HBR, listening to music, and trying out the parts I like the most on a guitar. I also enjoy a good novel and the occasional movie.
+I spend most of my free time reading, be it the news, or magazines, or even Wikipedia articles about events and persons that I admire. I also like listening to music, walking (or atleast, I used to in pre-Covid days), and every now and then I watch the occassional movie.
 
 ### How you can contact me
 
