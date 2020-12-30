@@ -1,3 +1,4 @@
+---
 layout: default
 ---
 ## Elon Musk and MBAs: My two cents
