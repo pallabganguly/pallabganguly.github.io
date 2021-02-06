@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Union Budget: Aam aadmi Interpretaion - Part I
+## Union Budget: Aam aadmi Interpretation - Part I
 February 6, 2021
 
 In India, few things garner as much interest as these: Cricket matches, Bollywood, and of course the Budget. It’s that time of the year again, as Union Finance Minister, Nirmala Sitharaman presented the Union Budget for FY22 in the Budget Session of Parliament. As ever, the presentation of the Budget was accompanied with hair-splitting analysis across the media, experts from the industry. 
