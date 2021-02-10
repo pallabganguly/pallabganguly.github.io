@@ -3,7 +3,7 @@ layout: default
 ---
 ## Home
 
-### New post on blog **[Elon Musk and MBAs: My two cents](../blog)**
+### New post on blog **[Union Budget: Aam aadmi Interpretation - Part I](../blog)**
 
 ### Who am I
 
