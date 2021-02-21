@@ -3,7 +3,7 @@ layout: default
 ---
 ## Home
 
-### New post on blog **[Union Budget: Aam aadmi Interpretation - Part I](../blog)**
+### New post on blog **[Union Budget: Aam aadmi Interpretation - Part II](../blog)**
 
 ### Who am I
 
