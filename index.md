@@ -7,7 +7,7 @@ layout: default
 
 ### Who am I
 
-I like to think of myself as a problem solver. Although growing up I created more problems than I solved, I did enjoy Maths and Physics and people told me to become an engineer because 'thats what all the smart chaps do'. Now interestingly, Engineering is great if you're someone who think of themselves as a problem solver, and I was rather lucky I listened to those people who nudged me into engineering becasue I enjoyed my course thoroughly (okay, maybe Computer Architecture wasnt that fun). I graduated in Computer Science & Engineering graduate from Kalyani Government Engineering College, West Bengal in 2018.
+I like to think of myself as a problem solver. Although growing up I created more problems than I solved, I did enjoy Maths and Physics and people told me to become an engineer because 'thats what all the smart chaps do'. Now interestingly, Engineering is great if you're someone who think of themselves as a problem solver, and I was rather lucky I listened to those people who nudged me into engineering becasue I enjoyed my course thoroughly (okay, maybe Computer Architecture wasnt that fun). I graduated in Computer Science & Engineering from Kalyani Government Engineering College, West Bengal in 2018.
 I am a currently Software Developer working at Oracle in Hyderabad, India. I work on the Oracle Fusion suite of apps, with Java, and Oracle databases. I have previously worked for Tata Consultancy Services, where I was a developer in an order management system for a major British retailer.
 
 ### What I am interested in
