@@ -24,4 +24,4 @@ You can e-mail me at [pallabkumarganguly[at]gmail[dot]com](mailto:pallabkumargan
 
 ### My resume
 
-If you want to take a look at my resume, [here](/images/resume_pallab_ganguly.pdf) it is! Please note, this may not be up-to-date, so it really is better is you contact me through any of the above :)
+If you want to take a look at my resume, [here](/images/resume_pallab_ganguly.pdf.pdf) it is! Please note, this may not be up-to-date, so it really is better is you contact me through any of the above :)
