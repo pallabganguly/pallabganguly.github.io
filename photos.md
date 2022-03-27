@@ -6,7 +6,7 @@ layout: default
 ## Mountains
 ## Ooty and Kodaikanal
 
-![View point, Ooty](../images/IMG_1376.JPG)
+![View point, Ooty](/images/IMG_1376.JPG)
 
 View point, Ooty, Summer of 2018.
 
