@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-## Some photos I took
+# Some photos I took
 
-<img src="https://media.gettyimages.com/photos/ginger-kitten-jumping-like-dancer-picture-id451957763?s=2048x2048" width="400" height="400"/>
+## Mountains
+## Ooty and Kodaikanal
+
+![View point, Ooty](../images/IMG_1376.JPG)
+
+View point, Ooty, Summer of 2018.
 
 Sorry, there's nothing here right now!
 I will probably need to setup an AWS storage account to hold the photos and link the URL's back here. 
